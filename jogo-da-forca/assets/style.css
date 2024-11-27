@@ -10,7 +10,7 @@ body {
     width: 100vw;
     height: 90vw;
     margin-top: 10px;
-    background-color: goldenrod;
+    background-color: #FEF2F2;
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -41,8 +41,8 @@ body {
 .letras {
     width: 16px;
     text-align: center;
-    border-bottom: 2px solid #8b008b;
-    color: white;
+    border-bottom: 2px solid #535344;
+    color: #F22032;
     margin-left: 2px;
     margin-right: 2px;
 }
@@ -59,7 +59,7 @@ body {
     cursor: pointer;
     border-radius: 5px;
     border: 1px solid dimgray;
-    color: #8b008b;
+    color: #F22032;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 900;
 }
@@ -70,7 +70,7 @@ body {
 
 #categoria {
     margin-top: 30px;
-    color: #8b008b;
+    color: #F22032;
     font-size: 1.2em;
 }
 
